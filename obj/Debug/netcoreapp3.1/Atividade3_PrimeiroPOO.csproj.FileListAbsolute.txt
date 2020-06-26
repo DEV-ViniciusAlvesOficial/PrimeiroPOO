@@ -1,0 +1,13 @@
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\bin\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.exe
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\bin\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.deps.json
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\bin\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.runtimeconfig.json
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\bin\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.runtimeconfig.dev.json
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\bin\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.dll
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\bin\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.pdb
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\obj\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.csprojAssemblyReference.cache
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\obj\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.AssemblyInfoInputs.cache
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\obj\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.AssemblyInfo.cs
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\obj\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.csproj.CoreCompileInputs.cache
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\obj\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.dll
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\obj\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.pdb
+C:\Users\ale\Desktop\Senai\Atividade3_PrimeiroPOO\obj\Debug\netcoreapp3.1\Atividade3_PrimeiroPOO.genruntimeconfig.cache
